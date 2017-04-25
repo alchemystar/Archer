@@ -9,7 +9,7 @@ import io.netty.handler.codec.ReplayingDecoder;
 
 /**
  * RedisCmdDecoder
- * todo singleTon
+ *
  * @Author lizhuyang
  */
 public class RedisCmdDecoder extends ReplayingDecoder {
